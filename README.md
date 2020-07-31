@@ -17,6 +17,7 @@ Certificate mycert-cert.pem modulus matches with Key mycert-key.pem modulus: OK
 ```
 
 ## Work in progress
+- Benchmarking Redhat and Debian variants for security
 - Validating a cacert chain.
 - Docs to for quickly testing openssl certs for mutual tls.
 
